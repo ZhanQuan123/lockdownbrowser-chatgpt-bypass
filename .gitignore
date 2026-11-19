@@ -1,0 +1,39 @@
+# Python environments and generated files
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+build/
+dist/
+*.egg-info/
+
+# Local credentials and account state
+.env
+.env.*
+!.env.example
+.floating_page_reader/
+session.dpapi
+*.dpapi
+registration.json
+.session-*
+
+# Proxy configuration, captured traffic, and certificate material
+.mitmproxy/
+*.mitm
+*.har
+*.saz
+*.pem
+*.key
+*.p12
+*.pfx
+*.cer
+*.crt
+
+# Local logs and editor files
+*.log
+.vscode/
+.idea/
+Thumbs.db
+Desktop.ini
+.DS_Store
