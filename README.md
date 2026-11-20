@@ -1,5 +1,7 @@
 # Floating Page Reader
 
+#i made this initally for lockdownbrowser, and it works below shows how it is injected
+
 A floating webpage assistant powered by a local mitmproxy addon. Ask about the current page, read structured HTML content, and view answers without leaving the page.
 
 **Package:** v5.10, saved-login edition · **Platform:** Windows · **Interface version:** `5.9`
